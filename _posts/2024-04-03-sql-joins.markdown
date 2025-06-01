@@ -6,7 +6,7 @@ img: sql.png
 alt: image-alt
 
 # Reminder: Update this link with your own project link
-project-url: "https://docs.google.com/document/d/1jXT9gNtUkVP32CCCGWMjdYCgnw_cLCjnheBU_Os-CNk/edit?usp=sharing"
+project-url: https://docs.google.com/document/d/1jXT9gNtUkVP32CCCGWMjdYCgnw_cLCjnheBU_Os-CNk/edit?usp=sharing
 
 
 description: As part of Google Cybersecurity Professional Certificate, this project simulates a real-world scenario involving a fictional small bookstore business. I was tasked with analyzing sales and employee data using SQL. All data queries and analysis were conducted through MySQL Workbench, focusing on data integrity, relational structure, and secure access practices aligned with cybersecurity principles.
